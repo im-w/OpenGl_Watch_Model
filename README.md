@@ -33,6 +33,17 @@
 Refer to the `models/` directory for component-level design: each element has its `.cpp` and `.h` pair for encapsulation.
 
 ---
+
+### Run
+
+Run this project with
+
+```bash
+g++ main.cpp glad.c models/watch_body.cpp models/watch_face.cpp models/watch_holder.cpp models/watch_band.cpp models/watch_hour.cpp models/watch_minute.cpp models/watch_pivot.cpp models/watch_screw.cpp models/watch_miniscrew.cpp models/watch_hourmarker.cpp models/watch_bighourmarker.cpp models/watch_button.cpp models/watch_lock.cpp animation/watch_animation.cpp -o watch -Iinclude -Iconstants -Imodels -Ianimation -lglfw -ldl -lGL && ./watch 
+
+```
+
+---
 ## Screenshots
 
 ![Front](https://github.com/im-w/OpenGl_Watch_Model/blob/main/docs/2.png)
@@ -47,14 +58,4 @@ Refer to the `models/` directory for component-level design: each element has it
 
 ![Right](https://github.com/im-w/OpenGl_Watch_Model/blob/main/docs/4.gif)
 
-
-
-### How to Run
-
-Run this project with
-
-```bash
-g++ main.cpp glad.c models/watch_body.cpp models/watch_face.cpp models/watch_holder.cpp models/watch_band.cpp models/watch_hour.cpp models/watch_minute.cpp models/watch_pivot.cpp models/watch_screw.cpp models/watch_miniscrew.cpp models/watch_hourmarker.cpp models/watch_bighourmarker.cpp models/watch_button.cpp models/watch_lock.cpp animation/watch_animation.cpp -o watch -Iinclude -Iconstants -Imodels -Ianimation -lglfw -ldl -lGL && ./watch 
-
-```
     
