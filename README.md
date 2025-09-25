@@ -46,16 +46,14 @@ g++ main.cpp glad.c models/watch_body.cpp models/watch_face.cpp models/watch_hol
 ---
 ## Screenshots
 
-![Front](https://github.com/im-w/OpenGl_Watch_Model/blob/main/docs/2.png)
-
-![Side](https://github.com/im-w/OpenGl_Watch_Model/blob/main/docs/3.png)
 
 ![Right](https://github.com/im-w/OpenGl_Watch_Model/blob/main/docs/3.gif)
+
+![Right](https://github.com/im-w/OpenGl_Watch_Model/blob/main/docs/4.gif)
 
 ![Left](https://github.com/im-w/OpenGl_Watch_Model/blob/main/docs/1.gif)
 
 ![Left](https://github.com/im-w/OpenGl_Watch_Model/blob/main/docs/2.gif)
 
-![Right](https://github.com/im-w/OpenGl_Watch_Model/blob/main/docs/4.gif)
 
     
