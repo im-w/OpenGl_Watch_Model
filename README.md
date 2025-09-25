@@ -48,9 +48,9 @@ g++ main.cpp glad.c models/watch_body.cpp models/watch_face.cpp models/watch_hol
 
 ![Front](https://github.com/im-w/OpenGl_Watch_Model/blob/main/docs/2.png)
 
-![Right](https://github.com/im-w/OpenGl_Watch_Model/blob/main/docs/3.gif)
-
 ![Side](https://github.com/im-w/OpenGl_Watch_Model/blob/main/docs/3.png)
+
+![Right](https://github.com/im-w/OpenGl_Watch_Model/blob/main/docs/3.gif)
 
 ![Left](https://github.com/im-w/OpenGl_Watch_Model/blob/main/docs/1.gif)
 
